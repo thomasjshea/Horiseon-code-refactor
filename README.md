@@ -9,8 +9,8 @@ This project is a Code Refactor for Horiseon's website. The purpose of this proj
 To use this project, you will just need to load the site into your web browser. 
 
 ### Screenshots:
-![Screenshot-1](develop/assets/images/Screenshot-1.png)
-![Screenshot-2](develop/assets/images/Screenshot-2.png)
+![Screenshot-1](Assets/images/Screenshot-1.png)
+![Screenshot-2](Assets/images/Screenshot-2.png)
 
 ## Credits
 
