@@ -7,3 +7,13 @@ This project is a Code Refactor for Horiseon's website. The purpose of this proj
 ## Usage
 
 To use this project, you will just need to load the site into your web browser. 
+
+### Screenshots:
+![Screenshot-1](develop/assets/images/Screenshot-1.png)
+![Screenshot-2](develop/assets/images/Screenshot-2.png)
+
+## Credits
+
+Starter code provided by GT Bootcamp Content page on GitLab
+https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/GT-VIRT-FSF-PT-01-2023-U-LOLC
+
