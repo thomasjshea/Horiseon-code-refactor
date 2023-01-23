@@ -10,6 +10,7 @@ To use this project, you will just need to load the site into your web browser.
 
 ### Screenshots:
 ![Screenshot-1](Assets/images/Screenshot-1.png)
+
 ![Screenshot-2](Assets/images/Screenshot-2.png)
 
 ## Credits
